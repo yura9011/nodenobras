@@ -1,0 +1,7 @@
+# Identity Manual and large binaries
+"Template de Manual de Identidad nodos (1400px-1000px).pdf"
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
