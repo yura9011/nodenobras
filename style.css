@@ -1,20 +1,20 @@
 :root {
     /* Colors */
-    --primary: #E6A535;
-    --primary-dark: #C98B2A;
-    --bg-dark: #121212;
-    --bg-card: #1E1E1E;
-    --bg-accent: #2A2A2A;
-    --text-white: #F5F5F5;
-    --text-gray: #A0A0A0;
-    --border: rgba(255, 255, 255, 0.1);
+    --primary: #D4AF37; /* Refined Branded Gold */
+    --primary-dark: #B8860B;
+    --bg-dark: #0F0F0F;
+    --bg-card: #1A1A1A;
+    --bg-accent: #222222;
+    --text-white: #F0F0F0;
+    --text-gray: #888888;
+    --border: rgba(212, 175, 55, 0.15); /* Tinted border for brand consistency */
     
     /* Typography */
-    --font-heading: 'Orbitron', sans-serif;
+    --font-heading: 'Michroma', sans-serif; /* More geometric and architectural */
     --font-body: 'Inter', sans-serif;
     
     /* Transitions */
-    --transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    --transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
 * {
